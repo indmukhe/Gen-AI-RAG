@@ -1,0 +1,95 @@
+SECTION G:
+BUMIPUTERA STATUS APPLICATION GUIDE
+1 UPKJ Bumiputera Status Recognition
+UPKJ's Bumiputera status is a privilege given to companies/firms/cooperatives/corporations
+if they have met the conditions that have been set and NOT RIGHTS according to the individual's birth status
+as Bumiputera.
+
+1.1 Requirements for UPKJ Bumiputera Status Recognition
+Companies/firms/cooperatives/corporations must comply with the Status registration requirements
+Bumiputera UPKJ as follows:
+
+1.1.1 If Shares in Company Are Owned By Individuals:
+a. The majority or at least 51% of the shares/equity is held by
+Bumiputera Sarawak and the main shareholder must be Bumiputera Sarawak.
+b. The majority or at least 51% of the members of the board of directors are
+consisting of Bumiputera Sarawak
+c. The majority or at least 51% of the management members are composed
+from Bumiputera Sarawak
+d. The majority or at least 51% of the employees consist of
+Bumiputera Sarawak.
+e. The majority or at least 51% of financial management is controlled by
+Bumiputera Sarawak (signatory of the company's check in the Bank Report or
+Company Check Signatory Declaration Letter or Director's Resolution)
+
+1.1.2 If Shares in Company Are Owned By Corporations/Nominees
+a. The majority or at least 51% of the largest equity/share is held
+by companies/ cooperatives/ corporations owned by Bumiputera Sarawak.
+b. The majority or at least 51% of the members of the board of directors are
+consisting of Bumiputera Sarawak
+c. The majority or at least 51% of the management members are composed
+from Bumiputera Sarawak
+d. The majority or at least 51% of the employees consist of
+Bumiputera Sarawak.
+e. The majority or at least 51% of financial management is controlled by
+Bumiputera Sarawak (signatory of the company's check in the Bank Report or
+Company Check Signatory Declaration Letter or Director's Resolution)
+
+1.1.3 Must Pass Bumiputera Status Interview/ Pass Premises Visit
+a. Applicants must pass the bumiputera status interview/premises visit.
+b. For the interview, the applicant needs to attend the interview on the date that has been set
+set. Rescheduling the interview date after confirmation (if unable
+attend the interview) is only allowed once before the period of three (3)
+days from the original interview date. New date change requests can be made
+through the OLAM system.
+
+Example:
+ Confirmed interview date : 23.03.2022
+ Rescheduling the interview date after confirmation on or before
+20.03.2022
+ New selected date: 26.03.2022
+Failure to attend an interview will result in a status application
+bumiputera FAILED.
+c. Premises visits are only for certain cases.
+d. If you fail the bumiputera status interview/premises visit, reapply
+only allowed after a period of six (6) months. This is to make sure
+the applicant as the owner/director of the company gives full commitment and
+provide yourself with the necessary experience and knowledge
+especially in the management and operation of the company before applying for status
+Bumiputera in the future.
+Note:
+ Bumiputera status re-interview is required if the company/firm/
+cooperatives/ corporations applying for registration under the field of work/
+mechanical/electrical despite already having Bumiputera Status for
+supply and service.
+ However, if a company/ firm/ cooperative/ corporation
+have Bumiputera Status under the field of work/ mechanical/ electrical,
+Bumiputera Status interview for new applications in the field of supply and
+service is not required.
+ Bumiputera Status is not applicable to the consultancy field.
+ Any change of interview date is only allowed within two (2)
+weeks from the original confirmed date.
+
+Note:
+If not passed, the Applicant can reapply for bumiputera status after a period of six (6) months.
+
+1.2 UPKJ Bumiputera Status Application Checklist
+
+{"Table G1. Bumiputera Status Application Checklist":
+  {
+   "Bhd/ Sdn.Bhd Type Company": "1. The latest SSM Corporate Info*\n2. Bank statement or financial signatory letter/company cheque that has been confirmed by the Bank\n(with the following information):*\ na. Name of company/ cooperative/\ncorporation with registration no.\n. Bank name, account number and date\account opened\nc. Owner's name and holding\nshares\nd. Authorized nominee\nchallenging the cheque\ne. Signatory condition\n3. EPF (If applicable)**\n4. Birth certificate of owner/shareholder/director*\n5. Photograph\n. outside the office building (front\ndoor),\nb. inside the office,\nc . outside the building (from a distance-\nseeing the office area).",
+   "Enterprise Type Company (Individual/Partnership)": "1. Extract Of Business Name\n2. Bank statement or financial signatory letter/company cheque that has been confirmed by the Bank\n(with the following information):*\ na. Name of company/ cooperative/\ncorporation with registration no.\n. Bank name, account number and date\account opened\nc. Owner's name and holding\nshares\nd. Authorized nominee\nchallenging the cheque\ne. Signatory condition\n3. EPF (If applicable)**\n4. Birth certificate of the owner/shareholder/director*\n5. Photo\n. outside the office building (front\ndoor),\nb. inside the office,\nc. at outside the building (from a distance -\nsee the office area).",
+   "Limited Liability Of Partnership/ Cooperative/ Corporation Type Company": "1. Certificate of Registration *\n2. Extract Of Business Name / Document\nShareholder Agreement (for LLP)*\n3. Bank statement or financial signatory letter/company cheque that has been confirmed by the Bank\n(with the following information):*\ na. Name of company/ cooperative/\ncorporation with registration no.\n. Bank name, account number and date\account opened\nc. Owner's name and holding\nshares\nd. Authorized nominee\nchallenging the cheque\ne. Signatory condition\n4. EPF (If applicable)**\n5. Birth certificate of owner/ shareholder/\ndirector*\n6. Photograph\na. outside the office building ( front\ndoor),\nb. inside the office,\nc. outside the building (from a distance-\nseeing the office area)."
+  }
+}
+
+Use:
+* Mandatory
+** Mandatory if you contribute to the EPF
+
+1.3 UPKJ Bumiputera Status Update
+Renewal of bumiputera status is automatic when a company/firm/cooperative/corporation make a renewal application for the field that has been registered.
+
+1.4 Change Application For Companies/ Firms/ Cooperatives/ Corporations That Have UPKJ Bumiputera Status
+Bumiputera Status will be revoked if the company/firm/cooperative/corporation no longer complies with the mandatory conditions of Bumiputera Status (Refer to 1.1.1 and 1.1.2).
+A Bumiputera Status re-interview is required if there is a major shareholder/equity change in the company/firm/ cooperative/corporation.

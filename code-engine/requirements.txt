@@ -1,0 +1,10 @@
+fastapi
+pydantic
+uvicorn
+langchain
+ibm-watson
+ibm-watson-machine-learning
+sentence_transformers
+faiss-cpu
+pandas
+urllib3<2

@@ -1,0 +1,18 @@
+name: CICD
+on: [workflow_dispatch]
+concurrency:
+    group: ${{ github.workflow }}
+    cancel-in-progress: true
+jobs:
+    deploy:
+        runs-on: ubuntu-latest
+        steps:
+            - uses: actions/checkout@v4
+            - run: |
+                  curl -sSL https://clis.cloud.ibm.com/install/linux | sh
+                  ibmcloud config --check-version=false
+                  ibmcloud plugin install code-engine container-registry
+                  ibmcloud login --apikey ${{ secrets.APIKEY_ITZV2 }} --no-region
+                  ibmcloud target -r us-south -g code-engine-550003aw18-6w2x4eu7
+                  ibmcloud ce project select -n itzce-550003aw18-6w2x4eu7
+                  ibmcloud ce application update --rebuild --name watsonx-sains
